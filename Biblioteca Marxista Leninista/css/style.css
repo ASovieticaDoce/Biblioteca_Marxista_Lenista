@@ -1,0 +1,53 @@
+/*Cor do fundo da site*/
+
+body{
+    background-color: #131313;
+}
+
+/*Textos*/
+
+h1{
+    color: red;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30%;
+    text-decoration: underline;
+}
+
+h2{
+    color: red;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+/*Livros*/
+
+#Que_fazer{
+    margin-left: 8px;
+    zoom: 105%;
+}
+
+#O_Estado_e_a_Revolução{
+    margin-left: 15px;
+    zoom: 54.5%;
+}
+
+#O_Capital_1{
+    zoom: 30.5%;
+}
+
+#O_Capital_2{
+    margin-left: 90px;
+    zoom: 10.7%;
+}
+
+#O_Capital_3{
+    margin-left: 17px;
+    zoom: 55%;
+}
+
+#Manifesto_Comunista{
+    margin-left: 95px;
+    zoom: 10.71%;
+}
